@@ -1,2 +1,2 @@
-# datascience1repo
+# datascienceI
 Data Science I Repository
