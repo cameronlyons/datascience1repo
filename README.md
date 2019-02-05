@@ -1,3 +1,3 @@
 # datascienceI
-Data Science I Repository
+Practice Data Science I Repository
 
